@@ -76,7 +76,7 @@ for i:=0 -> n-1
     product[i + j] = product[i + j] + A[i]*B[j]
 
 ```
-__ Độ phức tạp : __ O(n^2)
+** Độ phức tạp : **  O(n^2)
 
 
 ### 3.4 Cách giải đơn giản kết hợp đệ quy
@@ -103,7 +103,7 @@ Function Mult2(A, B, n, a1, b1){
 ```
 ![dequy](./images/4.jpg)
 
-__ Độ phức tạp : __ O(n^2)
+** Độ phức tạp : **  O(n^2)
 
 ### 3.5 Cách giải cải tiến kết hợp đệ quy và chia để trị.
 ![dequy2](./images/3.jpg)
@@ -112,7 +112,7 @@ __ Độ phức tạp : __ O(n^2)
 
 ![dequy](./images/5.jpg)
 
-__ Độ phức tạp : __ O(n^1.58)
+** Độ phức tạp : **  O(n^1.58)
 
 ## 4. Tài liệu tham khảo
 * Coursera
