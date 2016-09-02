@@ -102,6 +102,7 @@ Function Mult2(A, B, n, a1, b1){
 
 ```
 ![dequy](./images/4.jpg)
+
 __ Độ phức tạp : __ O(n^2)
 
 ### 3.5 Cách giải cải tiến kết hợp đệ quy và chia để trị.
